@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/kspr/RiderProjects/TurkishUpperCase/TurkishUpperCase/bin/Debug/net8.0-ios/iossimulator-arm64/TurkishUpperCase.app/libSystem.Globalization.Native.dylib
